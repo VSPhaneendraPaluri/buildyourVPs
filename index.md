@@ -12,7 +12,7 @@ This software model can be treated as
 - even an abstract model of the physical device
 
 
-The first time reader might want to start this page [EDA | My Perspective]({{ site.baseurl }}/eda).
+The first time reader might want to start this page [EDA - My Perspective]({{ site.baseurl }}/eda).
 
 To go back to the user site, click [here]({{ site.url }}).
 
